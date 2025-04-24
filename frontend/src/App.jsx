@@ -16,7 +16,7 @@ function App() {
       <div className="app">
         <header className="header">
           <div className="icon left" />
-          <h1>Interesting facts about Dog</h1>
+          <h1>Interesting facts about Dog's Facts</h1>
           <div className="icon right" />
         </header>
 
